@@ -1,9 +1,8 @@
-# 🧪 Asana QA Testprojekt
+🧪 Asana QA Testprojekt
 
-Dieses Projekt enthält manuelle Testfälle und Fehlerberichte für die Anwendung Asana.
+Dieses Projekt enthält manuelle Testfälle und Fehlerberichte für die Anwendung "https://app.asana.com"
 
-## 📌 Projektbeschreibung
-
+📌 Projektbeschreibung
 Im Rahmen dieses Projekts wurden verschiedene Kernfunktionen der Anwendung getestet, darunter:
 
 * Registrierung (Register)
@@ -12,7 +11,7 @@ Im Rahmen dieses Projekts wurden verschiedene Kernfunktionen der Anwendung getes
 * Aufgabenverwaltung (Task Management)
 * Teamfunktionen
 
-## 🧾 Testfälle
+🧾 Testfälle
 
 Es wurden insgesamt über 20 Testfälle erstellt, um die Funktionalität der Anwendung zu überprüfen.
 
@@ -22,8 +21,7 @@ Die Testfälle decken folgende Bereiche ab:
 * Negative Tests (ungültige oder fehlende Eingaben)
 * Edge Cases (Grenzfälle)
 
-## 🐞 Fehlerberichte
-
+🐞 Fehlerberichte
 Während der Tests wurden mehrere Fehler identifiziert und dokumentiert:
 
 * Einladung mehrerer Benutzer funktioniert nicht korrekt
@@ -32,19 +30,14 @@ Während der Tests wurden mehrere Fehler identifiziert und dokumentiert:
 * @Mention funktioniert nicht korrekt
 * Personen-Widget kann nicht hinzugefügt werden
 
-## ⚙️ Testumgebung
-
+⚙️ Testumgebung
 * Browser: Google Chrome
 * Betriebssystem: Windows 11
 * Anwendung: Web-Version von Asana
 
-## 📊 Verwendete Tools
-
+📊 Verwendete Tools
 * Microsoft Excel (Testfälle & Bug Reports)
 * GitHub (Dokumentation und Versionierung)
 
-## 🎯 Ziel des Projekts
-
+🎯 Ziel des Projekts
 Ziel dieses Projekts ist es, praktische Erfahrungen im Bereich Software Testing (QA) zu sammeln und ein Portfolio für Bewerbungen im Bereich Quality Assurance aufzubauen.
-
----
